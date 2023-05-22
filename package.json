@@ -1,0 +1,9 @@
+{
+   "scripts": {
+      "dev": "npx tailwindcss -i ./input.css -o ./dist/global.css --watch",
+      "build": "npx tailwindcss -i ./input.css -o ./dist/global.css"
+   },
+   "devDependencies": {
+      "tailwindcss": "^3.3.2"
+   }
+}

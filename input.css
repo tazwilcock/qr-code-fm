@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+   .attribution {
+      font-size: 11px;
+      text-align: center;
+   }
+}
