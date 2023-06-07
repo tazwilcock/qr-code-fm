@@ -8,7 +8,7 @@ This is a solution to the
 ### Built with
 
 -  HTML
--  TailwindCSS
+-  Tailwind
 -  Flexbox
 
-First Frontend Mentor Submission!
+First Frontend Mentor Submission
